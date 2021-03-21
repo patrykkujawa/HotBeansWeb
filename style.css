@@ -177,7 +177,7 @@ body{
     object-fit:cover;
     border-radius:50%;
     position: absolute;
-    top: 383px;
+    top: 879px;
     left: 1047px;
 
 }
@@ -196,7 +196,7 @@ body{
     color: #B7B7B7;
     resize: none;
     position: absolute;
-    top: 379px;
+    top: 866px;
     left: 1337px;
 }
 .Career4Text{
@@ -352,7 +352,7 @@ input[id=Submit]{
 textarea[id=Textbox]{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 58px;
-    line-height: 40px;
+    line-height: 50px;
     width: 1073px;
     height: 450px;
 
