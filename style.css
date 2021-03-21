@@ -53,8 +53,8 @@ body{
     float: left;
 }
 .Career1{
-    width:229px;
-    height:229px;
+    width:129px;
+    height:129px;
     object-fit:cover;
     border-radius:50%;
     position: absolute;
@@ -63,7 +63,7 @@ body{
 }
 .Career1Title{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 58px;
+    font-size: 48px;
     text-align: center;
     width: 28%;
     height: 61px;
@@ -78,10 +78,138 @@ body{
     position: absolute;
     top: 383px;
     left: 345px;
-    
+}
+.Career1Text{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 48px;
+    text-align: center;
+    line-height: 50px;
+    width: 28%;
+    height: 61px;
+    position: absolute;
+    top: 483px;
+    left: 345px;
 
 }
+.Career2{
+    width:129px;
+    height:129px;
+    object-fit:cover;
+    border-radius:50%;
+    position: absolute;
+    top: 879px;
+    left: 51px;
+  
 
+}
+.Career2Title{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 48px;
+    text-align: center;
+    width: 28%;
+    height: 61px;
+    line-height: 40px;
+   
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 100px;
+    background-color: rgb(255, 255, 255);
+    color: #B7B7B7;
+    resize: none;
+    position: absolute;
+    top: 866px;
+    left: 372px;
+}
+.Career2Text{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 48px;
+    text-align: center;
+    line-height: 50px;
+    width: 28%;
+    height: 61px;
+    position: absolute;
+    top: 966px;
+    left: 372px;
+
+}
+.Career3{
+    width:129px;
+    height:129px;
+    object-fit:cover;
+    border-radius:50%;
+    position: absolute;
+    top: 383px;
+    left: 1047px;
+}
+.Career3Title{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 48px;
+    text-align: center;
+    width: 28%;
+    height: 61px;
+    line-height: 40px;
+   
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 100px;
+    background-color: rgb(255, 255, 255);
+    color: #B7B7B7;
+    resize: none;
+    position: absolute;
+    top: 379px;
+    left: 1337px;
+}
+.Career3Text{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 48px;
+    text-align: center;
+    line-height: 50px;
+    width: 28%;
+    height: 61px;
+    position: absolute;
+    top: 479px;
+    left: 1337px;
+
+}
+.Career4{
+    width:129px;
+    height:129px;
+    object-fit:cover;
+    border-radius:50%;
+    position: absolute;
+    top: 383px;
+    left: 1047px;
+
+}
+.Career4Title{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 48px;
+    text-align: center;
+    width: 28%;
+    height: 61px;
+    line-height: 40px;
+   
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 100px;
+    background-color: rgb(255, 255, 255);
+    color: #B7B7B7;
+    resize: none;
+    position: absolute;
+    top: 379px;
+    left: 1337px;
+}
+.Career4Text{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 48px;
+    text-align: center;
+    line-height: 50px;
+    width: 28%;
+    height: 61px;
+    position: absolute;
+    top: 966px;
+    left: 1337px;
+}
 
 
 
@@ -264,7 +392,7 @@ select[id=JobList]{
     float: left;
 }     
     
-}
+
 .Trainee1{
     width:229px;
     height:229px;
@@ -297,6 +425,7 @@ select[id=JobList]{
     position: absolute;
     top: 866px;
     left: 372px;
+   
 
 }
 .Trainee3{
@@ -307,6 +436,8 @@ select[id=JobList]{
     position: absolute;
     top: 383px;
     left: 1047px;
+
+
 }
 .Trainee3Text{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
